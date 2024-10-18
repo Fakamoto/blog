@@ -1,4 +1,4 @@
-# :rocket: Welcome to My Python AI Developer Blog
+# :rocket: Welcome To My Python AI Developer Blog
 
 I'm a Python AI Developer with 5+ years of experience. Tools I love to use are [FastAPI](https://github.com/tiangolo/fastapi), [Pydantic](https://github.com/pydantic/pydantic), [OpenAI](https://github.com/openai/openai-python), [Marvin](https://github.com/PrefectHQ/marvin), [PyTorch](https://github.com/pytorch/pytorch), [SQLModel](https://github.com/tiangolo/sqlmodel), [Typer](https://github.com/tiangolo/typer)
 
