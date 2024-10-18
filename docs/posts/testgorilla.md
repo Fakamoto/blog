@@ -24,9 +24,9 @@ So, I decided to get creative and build something:
 
 ## The Tool 🛠️
 
-I created a small script that listens for my left Option key on my MacBook keyboard. When pressed, it takes a screenshot of the screen. This screenshot is immediately sent to GPT-4 Vision for analysis, specifically structured to answer multiple-choice questions.
+I created a small script that listens for my Option key on my MacBook keyboard. When pressed, it takes a screenshot of the screen. This screenshot is immediately sent to GPT-4 Vision for analysis, specifically structured to answer multiple-choice questions.
 
-Once GPT-4 Vision processes the screenshot, it sends back a structured response with the most probable answer. The script then uses the macOS notification system to alert me of the answer discreetly, ensuring I don't need to swap windows or alt-tab, which TestGorilla monitors. This way, I stay within the test environment without triggering any suspicion.
+Once GPT-4 Vision processes the screenshot, it sends back a structured response with the answer as a single number (e.g., 1, 2, 3, etc.). The script then uses the macOS notification system to alert me of the answer discreetly, ensuring I don't need to swap windows or alt-tab, which TestGorilla monitors. This way, I stay within the test environment without triggering any suspicion.
 
 ### Results 🎯
 
