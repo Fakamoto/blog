@@ -11,3 +11,32 @@ env/
 *.lock
 # End Generation Here
 
+# MkDocs build files
+/site/
+*.html
+*.css
+*.js
+*.map
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+# MkDocs configuration
+mkdocs.yml
+# MkDocs plugins
+*.plugin
+
+# Start Generation Here
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+Icon?
+Thumbs.db
+
+# macOS system files
+.AppleDesktop
+# End Generation Here
