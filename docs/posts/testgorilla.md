@@ -6,9 +6,9 @@ These last days, I've been invited to many TestGorilla Assessments for the Pytho
 
 It was a bit annoying when, after being invited to complete an assessment at TestGorilla for a Python AI Developer role I applied for—where the job description emphasized:
 
-> Python, FastAPI, LLMs, OpenAI, Embeddings, RAG, Function-calling, structured output, Fine-tuning (you know, the usual Python AI role)—
+> Python, FastAPI, LLMs, OpenAI, Embeddings, RAG, Function-calling, structured output, Fine-tuning (you know, the usual Python AI role)
 
-I realized the test was focused for Machine Learning rather than Applied AI… But I decided to go along with it anyway.
+I realized the test was focused on Machine Learning rather than Applied AI… But I decided to go along with it anyway.
 
 One of the first questions was the following:
 
@@ -16,9 +16,9 @@ One of the first questions was the following:
 
 ![First Answer](media/testgorilla_answer1.png)
 
-The question wasn’t related to the technologies or tools I work with, nor did it have anything to do with the job description. It was a poor choice of questions because they assumed Machine Learning and Applied AI with LLMs are the same, but they are actually very different fields.
+The question wasn't related to the technologies or tools I work with, nor did it have anything to do with the job description. It was a poor choice of questions because they assumed Machine Learning and Applied AI with LLMs are the same, but they are actually very different fields.
 
-I didn’t know the answer to this question, and I encountered several other questions centered around classic ML concepts that weren’t relevant to my expertise. After failing the test, I decided that I wasn’t going to let outdated evaluations like this be the reason I got rejected—especially when applying for an **AI DEVELOPER ROLE** in the AI era.
+I didn't know the answer to this question, and I encountered several other questions centered around classic ML concepts that weren't relevant to my expertise. After failing the test, I decided that I wasn't going to let outdated evaluations like this be the reason I got rejected—especially when applying for an **AI DEVELOPER ROLE** in the AI era.
 
 So, I decided to get creative and build something:
 
