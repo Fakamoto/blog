@@ -4,7 +4,7 @@ I'm a Python AI Developer with 5+ years of experience. Tools I love to use are [
 
 We are big fans of [Tiangolo](https://github.com/tiangolo) as he is the creator of 3 of my favorite libraries for Python (FastAPI, SQLModel, Typer).
 
-## Latest Posts
+## Latest Posts 📝
 
 - [Pass any TestGorilla Assessment](posts/testgorilla.md)
 
