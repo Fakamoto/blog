@@ -1,5 +1,8 @@
 # Pass any TestGorilla Assessment 🦍
 
+
+### Introduction
+
 These last days, I've been invited to many TestGorilla Assessments for the Python Developer positions I've been applying for.
 
 ![TestGorilla Logo](media/testgorilla_logo.png)
@@ -22,7 +25,7 @@ I didn't know the answer to this question, and I encountered several other quest
 
 So, I decided to get creative and explore a concept:
 
-## The Experiment 🛠️
+### The Experiment 🛠️
 
 I conceptualized and then built a small script as an experiment. This script listens for a key press on the keyboard. When pressed, it takes a screenshot of the screen. The screenshot is then sent to GPT-4 Vision for analysis, specifically structured to answer multiple-choice questions.
 
