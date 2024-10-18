@@ -2,7 +2,9 @@
 
 cd /root/projects/blog
 
-git pull
+sleep 5
+
+git pull origin main
 
 mkdocs build
 
