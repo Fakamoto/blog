@@ -1,0 +1,69 @@
+site_name: fgoiriz
+site_author: Facundo Goiriz
+site_url: https://blog.fgoiriz.com
+repo_url: https://github.com/Fakamoto/blog
+repo_name: blog
+theme:
+  name: material
+  palette:
+    - scheme: default 
+      primary: black 
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+features:
+  - announce.dismiss
+  - content.action.edit
+  - content.code.copy
+  - navigation.tabs.sticky
+  - navigation.instant.progress
+
+# Extensions
+markdown_extensions:
+  - abbr
+  - admonition
+  - pymdownx.details
+  - attr_list
+  - def_list
+  - footnotes
+  - toc:
+      permalink: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  
+plugins:
+  - search
+  - blog:
+      blog_dir: posts
+      post_date_format: yyyy/MM/dd
+      post_url_format: "{date}/{slug}"
+
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://x.com/piero_go_
+    - icon: fontawesome/brands/github
+      link: https://github.com/fakamoto
+
+      
+nav:
+  - Home: 'index.md'
+  - Pass any TestGorilla Assessment: 'posts/testgorilla.md'
+plugins:
+  - search
