@@ -1,0 +1,13 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+# Virtual environment
+venv/
+env/
+# MkDocs documentation
+/site/
+# Git files
+*.orig
+*.lock
+# End Generation Here
+
